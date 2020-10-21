@@ -1,0 +1,6 @@
+projectKey=SPOC
+serverUrl=http://localhost:9000
+serverVersion=8.4.2.36762
+dashboardUrl=http://localhost:9000/dashboard?id=SPOC
+ceTaskId=AXUm0LEIzu1mKFiHx4qa
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AXUm0LEIzu1mKFiHx4qa

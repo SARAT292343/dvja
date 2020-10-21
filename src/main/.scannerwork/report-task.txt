@@ -1,0 +1,6 @@
+projectKey=FSP
+serverUrl=http://localhost:9000
+serverVersion=7.9.4.35981
+dashboardUrl=http://localhost:9000/dashboard?id=FSP
+ceTaskId=AXVItqVwAIfmGYgyR2eA
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AXVItqVwAIfmGYgyR2eA
